@@ -1,0 +1,90 @@
+.heading
+{
+    font-size: x-large;
+    box-shadow: 0px 10px 15px 2px rgba(0,255,255,0.7);
+    background-image: linear-gradient(135deg, #7bc0f5 40%, #ffbbc8, #ffe354);
+    width: 90%;
+    margin-top: 10px;
+    border-radius: 80px;
+    position: center;
+}
+
+.note
+{
+    font-size: medium;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.speed_button
+{
+    align-items: center;
+    background-image: linear-gradient(135deg, #f34079 40%, #fc894d);
+    border: 0;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: "Codec cold",sans-serif;
+    text-transform: uppercase;
+    width: 100px;
+}
+
+.volume_button
+{
+    align-items: center;
+    background-image: linear-gradient(135deg, #f34079 40%, #fc894d);
+    border: 0;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: "Codec cold",sans-serif;
+    text-transform: uppercase;
+    width: 110px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+    background-image: linear-gradient(135deg, #f34079 40%, #fc894d);
+
+}
+canvas 
+{
+  
+  border-radius:20px;
+  box-shadow: 0 0 .2rem #fff,
+  0 0 .2rem #fff,
+  0 0 2rem #bc13fe,
+  0 0 0.8rem #bc13fe,
+  0 0 2.8rem #bc13fe,
+  inset 0 0 1.3rem #bc13fe;}
